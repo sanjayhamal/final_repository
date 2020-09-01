@@ -1,0 +1,15 @@
+Package: Numericmind
+Title: Creates simple summary table, stratified table, summary of subset table
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Sanjay",
+           family = "Hamal",
+           role = c("aut", "cre"),
+           email = "sanjayhamal99@gmail.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Creates simple summary table, stratifed table and summary of subset table
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
